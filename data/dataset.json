@@ -1,0 +1,207 @@
+[
+  {
+    "instruction": "Jawab tatarucingan ieu: Awakna hideung, sirahna beureum, sukuna sarebu. Naon eta?",
+    "input": "",
+    "output": "Korek api (korek). Awakna (batang) hideung, sirahna beureum (bagian nu hurung), sukuna sarebu hartina loba pisan dipaké unggal poé."
+  },
+  {
+    "instruction": "Jawab tatarucingan ieu: Di luhur gunung aya hiji imah, imahna teu boga panto. Naon eta?",
+    "input": "",
+    "output": "Endog. Imahna nyaéta cangkangna, teu boga panto sabab tutup ku sorangan."
+  },
+  {
+    "instruction": "Jawab tatarucingan ieu: Unggal isuk datang, unggal peuting indit, tapi teu leumpang. Naon eta?",
+    "input": "",
+    "output": "Panonpoé (Matahari). Unggal isuk muncul (datang) jeung unggal peuting lelem (indit), tapi manéhna teu leumpang, urang nu ngaharti gerakanana."
+  },
+  {
+    "instruction": "Naon jawaban tatarucingan ieu: Awakna basah, sukuna opat, cicing di solokan. Naon eta?",
+    "input": "",
+    "output": "Bangkong (katak). Hirupna di deukeut cai atawa solokan, awakna baseuh, jeung boga suku opat."
+  },
+  {
+    "instruction": "Jawab tatarucingan: Ditarik maju mundur, bunyina nyaring, biasa aya di dapur. Naon eta?",
+    "input": "",
+    "output": "Parutan. Dipaké ku cara ditarik maju mundur kana béas atawa kalapa, bunyina kacémbong, sering aya di dapur."
+  },
+  {
+    "instruction": "Sebutkeun jawaban tatarucingan: Awakna buleud, jerona kosong, unggal poé dipaké indit. Naon eta?",
+    "input": "",
+    "output": "Ban (roda). Wangunna buleud, jerona kosong (angin), jeung dipaké kana kendaraan unggal poé."
+  },
+  {
+    "instruction": "Jawab tatarucingan basa Sunda ieu: Leutik awakna, sora na tarik, tapi teu boga sungut. Naon eta?",
+    "input": "",
+    "output": "Peluit atawa suling leutik. Awakna leutik tapi sorana tarik, teu boga sungut sabab nu nyarataan téh angin lain sungut manéhna."
+  },
+  {
+    "instruction": "Naon eta: Sakali dipiceun, henteu deui bisa dipibanda. Naon eta?",
+    "input": "",
+    "output": "Waktu (mangsa). Waktu nu geus kaliwat teu bisa balik deui atawa dipibanda."
+  },
+  {
+    "instruction": "Jawab tatarucingan: Awakna panjang, sirahna siji, bisa leumpang teu make suku. Naon eta?",
+    "input": "",
+    "output": "Oray (ular). Awakna panjang, boga hiji sirah, jeung bisa gerak/leumpang teu ngagunakeun suku."
+  },
+  {
+    "instruction": "Tatarucingan: Dipaké unggal poé, tapi teu bisa dicekel. Naon eta?",
+    "input": "",
+    "output": "Angin. Unggal poé urang ngarasakeun angin, tapi teu bisa dicekel ku leungeun."
+  },
+  {
+    "instruction": "Jawab tatarucingan ieu: Makin loba dipaké, makin pondok. Naon eta?",
+    "input": "",
+    "output": "Pensil atawa lilin. Unggal dipaké, awakna jadi pondok terus nepi ka béak."
+  },
+  {
+    "instruction": "Sebutkeun jawaban: Dina peuting caang, dina beurang leungit. Naon eta?",
+    "input": "",
+    "output": "Béntang (bintang). Béntang katingali dina peuting nu caang, tapi balik/leungit katingalina waktu beurang sabab caang panonpoé."
+  },
+  {
+    "instruction": "Jawab: Awakna tiis, teu boga rasa, tapi bisa ngabekelan hirup. Naon eta?",
+    "input": "",
+    "output": "Cai (air). Cai awakna tiis, teu boga rasa, tapi kacida pentingna pikeun kahirupan manusa jeung mahluk séjénna."
+  },
+  {
+    "instruction": "Tatarucingan basa Sunda: Aya di imah, dipiceunan unggal poé, tapi balik deui. Naon eta?",
+    "input": "",
+    "output": "Sampah atawa kokotor. Unggal poé dipiceun, tapi unggal poé ogé aya deui (sabab urang terus ngahasilkeun sampah)."
+  },
+  {
+    "instruction": "Jawab tatarucingan: Opat suku nangtung, dua suku ngagantung, hiji suku nyapuan. Naon eta?",
+    "input": "",
+    "output": "Munding (kerbau) keur nginum cai. Opat sukuna nangtung di bumi, dua sukuna (leungeun hareup) ngagantung, jeung buntutna nyapuan."
+  },
+  {
+    "instruction": "Naon jawaban tatarucingan ieu: Beungeutna hideung, ngan ukur dipaké waktu pesta. Naon eta?",
+    "input": "",
+    "output": "Wajan atawa panci hideung. Ngan dipaké waktu masak kanggo pesta atawa hajatan."
+  },
+  {
+    "instruction": "Jawab: Loba nu boga, tapi teu bisa ditémbongkeun. Naon eta?",
+    "input": "",
+    "output": "Pikiran atawa impian. Unggal jalma boga pikiran jeung impian, tapi teu bisa ditémbongkeun sacara langsung ka batur."
+  },
+  {
+    "instruction": "Tatarucingan: Buahna semu konéng, kulitna kandel, jero na amis. Naon eta?",
+    "input": "",
+    "output": "Nanas. Buahna konéng, kulitna kandel jeung semu kasar, tapi jerona amis jeung seger."
+  },
+  {
+    "instruction": "Jawab tatarucingan basa Sunda: Nu leutik bisa meueum nu gédé. Naon eta?",
+    "input": "",
+    "output": "Seuneu (api) leutik bisa ngaduruk kai atawa imah nu gédé. Atawa bisa ogé hartina: kuman/panyakit leutik bisa ngéléhkeun awak nu gédé."
+  },
+  {
+    "instruction": "Sebutkeun jawaban: Awakna bodas, siga salju, amis di jero. Naon eta?",
+    "input": "",
+    "output": "Kelapa muda (degan). Bagian luarna bodas atawa héjo, tapi jerona boga cai manis jeung daging bodas nu amis."
+  },
+  {
+    "instruction": "Jawab: Ditinggalkeun sedih, dibawa bingung. Naon eta?",
+    "input": "",
+    "output": "Kasusah atawa masalah. Lamun ditinggalkeun (dibawa ku batur) urang sedih, tapi lamun dibawa sorangan jadi bingung."
+  },
+  {
+    "instruction": "Tatarucingan: Sirahna aya di handap, sukuna aya di luhur. Naon eta?",
+    "input": "",
+    "output": "Paku (dipasang ka témbok atawa kai). Sirahna (sirah paku) aya di handap atawa panto, sukuna (bagian nu dicantél) aya di luhur."
+  },
+  {
+    "instruction": "Jawab tatarucingan: Beurang dipiceun, peuting dipake deui. Naon eta?",
+    "input": "",
+    "output": "Simbut atawa salimut (selimut). Beurang dilipet/dipiceun kana témbok atawa dipan, peuting dipake deui pikeun saré."
+  },
+  {
+    "instruction": "Naon eta tatarucingan: Sababaraha urang ngadeg dina hiji suku, ngagem topong bodas. Naon eta?",
+    "input": "",
+    "output": "Cendawan (jamur). Ngadegna dina hiji suku (tangkai), jeung bagian luhurna siga topong bodas."
+  },
+  {
+    "instruction": "Jawab: Awakna hideung, eurih-eurih, jeung sok muru cahaya. Naon eta?",
+    "input": "",
+    "output": "Kupu-kupu peuting (ngengat/moth). Awakna biasana hideung atawa coklat, sokna ngapung ngurilingan lampu/cahaya dina peuting."
+  },
+  {
+    "instruction": "Tatarucingan: Aya dina kamar, teu bisa dipiceun, tapi teu katénjo. Naon eta?",
+    "input": "",
+    "output": "Hawa atawa udara. Aya di mana waé kaasup kamar, teu bisa dipiceun, tapi teu katémbong ku mata."
+  },
+  {
+    "instruction": "Jawab tatarucingan basa Sunda: Boga mata tapi teu bisa nenjo, boga ceuli tapi teu bisa ngadéngé. Naon eta?",
+    "input": "",
+    "output": "Jarum. Boga liang (mata jarum) tapi teu bisa nenjo, jeung boga lubang (ceuli) tapi teu bisa ngadéngé bener."
+  },
+  {
+    "instruction": "Jawab: Hirupna di laut, awakna aya tulang, tapi loba nu nyokot. Naon eta?",
+    "input": "",
+    "output": "Lauk (ikan). Hirupna di laut atawa cai, awakna boga tulang, jeung loba nu néwak atawa ngadahar."
+  },
+  {
+    "instruction": "Tatarucingan: Ditindes jadi ipis, ditarik jadi kandel. Naon eta?",
+    "input": "",
+    "output": "Karet (penghapus atawa barang tina karet). Lamun ditindes jadi ipis, lamun ditarik balik jadi kandel/panjang deui."
+  },
+  {
+    "instruction": "Jawab tatarucingan: Unggal poé numbas tapi teu béak-béak. Naon eta?",
+    "input": "",
+    "output": "Élmu atawa pangaweruh. Élmu terus diulik (ditumbas/diajarkeun) tapi teu bakal béak, malah terus nambahan."
+  },
+  {
+    "instruction": "Sebutkeun jawaban tatarucingan: Leumpangna tiis, nginum cai moal wareg. Naon eta?",
+    "input": "",
+    "output": "Batu (walungan). Batu di walungan sok katingali tiis jeung baseuh, sarta caina terus ngalir tapi teu eureun-eureun (siga teu wareg)."
+  },
+  {
+    "instruction": "Jawab: Leutik buleud, kaasup rupa-rupa warna, sok dipake barudak. Naon eta?",
+    "input": "",
+    "output": "Kelereng (gundu). Leutik, wangunna buleud, aya rupa-rupa warna, sering dimainkeun ku barudak."
+  },
+  {
+    "instruction": "Tatarucingan basa Sunda: Luhurna ngahiji, handapna ngajajar. Naon eta?",
+    "input": "",
+    "output": "Tangkal kai atawa tangkal awi. Luhurna (daun jeung dahan) ngahiji/ngumpul, handapna (akar) nyebar jeung ngajajar."
+  },
+  {
+    "instruction": "Jawab tatarucingan: Mun hujan datang, manéhna leungit. Naon eta?",
+    "input": "",
+    "output": "Lebu (debu) atawa rereged di jalan. Waktu hujan turun, lebu atawa rereged leungit/ngiles kabawa cai."
+  },
+  {
+    "instruction": "Naon eta: Boga bulu tapi lain hayam, boga cangkang tapi lain keong. Naon eta?",
+    "input": "",
+    "output": "Endog hayam. Boga cangkang (kulitna) tapi lain keong, jeung lamun geus netas ngahasilkeun hayam nu boga bulu."
+  },
+  {
+    "instruction": "Jawab: Awakna buleud, beureum atawa konéng, amis rasana. Naon eta?",
+    "input": "",
+    "output": "Buah apel atawa jeruk. Wangunna buleud, boga warna beureum atawa konéng, jeung amis rasana."
+  },
+  {
+    "instruction": "Tatarucingan: Sakali leupas teu bisa ditarik deui. Naon eta?",
+    "input": "",
+    "output": "Kecap (omongan/perkataan). Sakali diucapkeun, omongan teu bisa ditarik deui, jadi kudu ati-ati dina nyarita."
+  },
+  {
+    "instruction": "Jawab tatarucingan basa Sunda: Di handap héjo, di luhur beureum, di tengah bodas. Naon eta?",
+    "input": "",
+    "output": "Semangka. Di handap jeung luarna héjo (kulitna), di tengah beureum (dagingna), jeung aya bagian bodas dina kulitna."
+  },
+  {
+    "instruction": "Jawab: Keur leutik nganggo baju, geus gédé buburak. Naon eta?",
+    "input": "",
+    "output": "Buah rambutan atawa buah nu boga kulit. Waktu ngora masih aya dina kulitna (nganggo baju), geus asak/gédé buburak/dikupas."
+  },
+  {
+    "instruction": "Naon eta tatarucingan: Hiji suku, hiji sirah, tapi bisa mawa sababaraha jalma. Naon eta?",
+    "input": "",
+    "output": "Parahu (perahu) atawa rakit. Hiji awak (teu boga suku saperti binatang), hiji bagian hareup (sirah), tapi bisa mawa loba jalma."
+  },
+  {
+    "instruction": "Jawab tatarucingan: Di luar hideung, di jero héjo, di jerona deui beureum, jeung jerona deui aya bodas leutik-leutik. Naon eta?",
+    "input": "",
+    "output": "Semangka hideung (jenis semangka hideung). Di luar hideung (kulitna), di jero héjo (lapisan kulitna), teras beureum (dagingna), jeung bodas leutik-leutik nyaéta siki/bijinya."
+  }
+]
